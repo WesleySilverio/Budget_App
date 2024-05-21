@@ -10,5 +10,9 @@ Observation: Budget app is entirely interactive, so just call the **menu()** fun
 3) **Withdraw** - Adds a spent and one description.
 4) **Transfer** - Transfers an amount of money between previously created categories, noting a cash outflow for the current category and adding a deposit for the other one.
 5) **Complete balance** - Creates the balance and lists each description and it's respective value, also showing the final balance amount.
-6) **Chart** - This function is responsible for creating the comparison chart between categories. 
-
+6) **Chart** - This function is responsible for creating the comparison chart between categories.
+ 
+## Input Model and Expected Results
+<img src="/Results/1_budget.png"> 
+<img src="/Results/2_budget.png"> 
+<img src="/Results/3_budget.png"> 
